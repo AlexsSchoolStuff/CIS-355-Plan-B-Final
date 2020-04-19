@@ -143,6 +143,7 @@ if ( !empty($_POST)) { // if $_POST filled then process the form
 					<small>&copy; Copyright 2017, George Corser
 					</small>
 					<a class="btn btn-primary" href="https://cis355awbucskt.000webhostapp.com/fr/login.php">000Webhost</a>
+					<a class="btn btn-primary" href="https://github.com/awbuckst11181999/FR-PlanB">000Webhost</a>
 				</footer>
 				
 			</form>
